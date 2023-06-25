@@ -41,6 +41,10 @@
     padding-top: 33px;
   
     color: white;
+    margin-left: -37px;
+}
+.logo h1 span{
+    color: #ffa500;
 }
 ul{
     display: flex;
@@ -160,6 +164,7 @@ ul li a:hover{
 .book{
     background: #f9f9f9;
     padding: 50px;
+    padding-top: 90px;
 }
 .main-text h1{
     text-align: center;
@@ -243,6 +248,9 @@ transition-duration:  10s ;
 .book .submit:hover{
     width: 170px;
 }
+.container1{
+    padding-top: 90px;
+}
 .colum{
     width: 380px;
     height: 515px;
@@ -280,6 +288,8 @@ transition-duration:  10s ;
 }
 .main-txt h1 span{
     color: #ffa500;
+}.packages{
+    margin-top: 350px;
 }
 .packages .pic{
     border-radius: 5px;
@@ -329,9 +339,12 @@ transition-duration:  10s ;
 .star i{
     font-size: 15px;
 }
+.service{
+    padding-top: 90px;
+}
 .service-parent{
     background: #f9f9f9;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 .icon-parent{
     margin-left: 10%;
@@ -370,6 +383,9 @@ transition-duration:  10s ;
     padding-top: 5px;
     margin-left: 8%;
 }
+.Gallary{
+    padding-top: 80px;
+}
 .gallary-parent{
     margin-top: 30px;
     justify-content: center;
@@ -386,6 +402,9 @@ transition-duration:  10s ;
 }
 .gallary1 img:hover{
     transform: scale(0.58);
+}
+.About{
+    padding-top: 80px;
 }
 .about{
     margin-top: 60px;
